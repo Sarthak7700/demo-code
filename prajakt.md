@@ -2,10 +2,6 @@
 
 I am a learner enrolled in the Upgrade Centre, focused on systematically improving my skills, tools, and workflows. My aim is to move from current practices to a more efficient, modern toolkit and mindset so I can produce higher-quality work faster.
 
-## Background
-- Comfortable with core concepts and everyday workflows.
-- Ready to adopt newer practices, tools, and automation to cut manual effort.
-
 ## Goals
 - Learn and apply one significant tool or practice each month.
 - Raise code quality, testing, and documentation standards.
