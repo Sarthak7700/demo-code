@@ -14,7 +14,5 @@ Hello! I'm Sarthak, a learner at upGrad Learning Centre. I'm passionate about fu
 - Backend development and databases
 - Cloud deployment and DevOps practices
 
-Looking forward to sharing my projects and progress!
-
-
-Sarthak Sonar
+Looking forward to sharing my projects and progress
+Sarthak 
